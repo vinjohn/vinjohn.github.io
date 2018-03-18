@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Vinjohn&#39;s CV</title>
+    <link>https://vinjohn.github.io/project/</link>
+    <description>Recent content in Projects on Vinjohn&#39;s CV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 27 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vinjohn.github.io/project/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mask R-CNN pytorch version</title>
+      <link>https://vinjohn.github.io/project/pytorch-mask-rcnn/</link>
+      <pubDate>Wed, 27 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vinjohn.github.io/project/pytorch-mask-rcnn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

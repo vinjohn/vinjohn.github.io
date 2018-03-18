@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Homes on Vinjohn&#39;s CV</title>
+    <link>https://vinjohn.github.io/home/</link>
+    <description>Recent content in Homes on Vinjohn&#39;s CV</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&amp;copy; 2018</copyright>
+    <lastBuildDate>Wed, 20 Apr 2016 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://vinjohn.github.io/home/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>https://vinjohn.github.io/home/about/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vinjohn.github.io/home/about/</guid>
+      <description>Biography Wenqiang Xu is a graduate student of computer vision at the MVIG@SJTU. His research interests include robotics, computer vision especially 3D vision.
+Recent News:</description>
+    </item>
+    
+    <item>
+      <title>Publications</title>
+      <link>https://vinjohn.github.io/home/publications/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0800</pubDate>
+      
+      <guid>https://vinjohn.github.io/home/publications/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Projects</title>
+      <link>https://vinjohn.github.io/home/projects/</link>
+      <pubDate>Wed, 20 Apr 2016 00:00:00 +0000</pubDate>
+      
+      <guid>https://vinjohn.github.io/home/projects/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
